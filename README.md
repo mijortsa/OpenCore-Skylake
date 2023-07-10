@@ -18,5 +18,6 @@ What's Work
 Not Work
 - Wifi RTL8723DE (Not Support)
 
-![Screenshot 2023-07-10 at 11 10 28](https://github.com/mijortsa/OpenCore-Skylake/assets/908982/12c190d2-d97f-490b-99ce-40c89cc12fe7)
+![Screenshot 2023-07-10 at 11 10 28](https://github.com/mijortsa/OpenCore-Skylake/assets/908982/e6734c27-0907-4cd1-8ed4-a1eae1b9dc8b)
+
 ![Screenshot 2023-07-10 at 11 10 47](https://github.com/mijortsa/OpenCore-Skylake/assets/908982/7b5c656f-0d56-4053-9581-336d77106287)

@@ -30,3 +30,6 @@ sudo cp Icons.plist /Library/Displays/Contents/Resources/Overrides
 ![Screenshot 2023-07-10 at 11 10 28](https://github.com/mijortsa/OpenCore-Skylake/assets/908982/e6734c27-0907-4cd1-8ed4-a1eae1b9dc8b)
 
 ![Screenshot 2023-07-10 at 11 10 47](https://github.com/mijortsa/OpenCore-Skylake/assets/908982/7b5c656f-0d56-4053-9581-336d77106287)
+
+# Resolution Patch Inspirate 
+https://github.com/mijortsa/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions

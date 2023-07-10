@@ -1,7 +1,6 @@
 # OpenCore-Skylake
 Private EFI Laptop HP 14-bs011TU Hackintosh Ventura
 
-Select framebuffer SkyLake to Kaby Lake
 Model MacBookPro 15,4
 
 What's Work
@@ -16,12 +15,13 @@ What's Work
 8. Network
 
 Not Work
-- Wifi RTL8723DE (Not Support)
+- Wifi RTL8723DE (Not Supported)
+- Bluetooth (Not Supported)
 
 
-Copy Resolution Patch :
-1. Folder DisplayVendorID-9e5
-2. Icons.plist
+# Patch Resolution, Copy Resolution Patch :
+- Folder DisplayVendorID-9e5
+- Icons.plist
 
 sudo cp DisplayVendorID-9e5 /Library/Displays/Contents/Resources/Overrides
 

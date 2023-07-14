@@ -8,7 +8,7 @@ What's Work
    (Default resolution 1366x768) patch up resolution to 1600x900
 2. Sound Realtek ALC282
 3. Battery indicator
-4. USB map's
+4. USB Port
 5. Camera
 6. Keybord 
 7. Mousepad
@@ -16,7 +16,7 @@ What's Work
 
 Not Work
 - Wifi RTL8723DE (Not Supported)
-- Bluetooth (Not Supported)
+- Bluetooth (Unsupported)
 
 
 # Patch Resolution, Copy Resolution Patch :

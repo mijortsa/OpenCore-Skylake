@@ -11,7 +11,7 @@ What's Work
 4. USB Port
 5. Camera
 6. Keybord 
-7. Mousepad
+7. Trackpad
 8. Network
 9. Bluetooth
 
@@ -34,6 +34,12 @@ sudo cp Icons.plist /Library/Displays/Contents/Resources/Overrides
 
 
 ![Screenshot 2023-07-10 at 11 10 47](https://github.com/mijortsa/OpenCore-Skylake/assets/908982/7b5c656f-0d56-4053-9581-336d77106287)
+
+
+![Screenshot 2023-07-25 at 22 40 56](https://github.com/mijortsa/OpenCore-Skylake/assets/908982/5de0308e-32e0-475f-adc5-49e813c3b151)
+
+
+![Screenshot 2023-07-25 at 22 40 37](https://github.com/mijortsa/OpenCore-Skylake/assets/908982/53fdc4a0-baa2-4d9f-b9d8-37ac21f171f1)
 
 # Resolution Patch Inspirate 
 https://github.com/codeclou/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions

@@ -16,7 +16,8 @@ What's Work
 9. Bluetooth
 
 Not Work
-- Wifi RTL8723DE (Not Supported) replase with wifi dongle driver @Chris1111 https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter
+- Wifi RTL8723DE (Not Supported)
+  replase with wifi dongle driver @Chris1111 https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter
 
 
 

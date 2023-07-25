@@ -1,5 +1,5 @@
 # OpenCore-Skylake
-EFI Laptop HP 14-bs011TU Hackintosh Big Sure or latest
+EFI Laptop HP 14-bs011TU Hackintosh Ventura
 
 Model MacBookPro 15,4
 
@@ -13,10 +13,11 @@ What's Work
 6. Keybord 
 7. Mousepad
 8. Network
+9. Bluetooth
 
 Not Work
-- Wifi RTL8723DE (Not Supported)
-- Bluetooth (Unsupported)
+- Wifi RTL8723DE (Not Supported) replase with wifi dongle driver @Chris1111 https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter
+
 
 
 # Patch Resolution, Copy Resolution Patch :

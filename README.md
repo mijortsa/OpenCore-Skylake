@@ -42,7 +42,7 @@ Not Work
 <img src="/img/aaaa.png?raw=true" align="center">
 <img src="/img/bbbb.png?raw=true" align="center">
 <img src="/img/cccc.png?raw=true" align="center">
-<img src="/img/dddd.png?raw=true" align="center" size="50%">
+<img src="/img/dddd.png?raw=true" align="center" size="20%">
 
 # Resolution Patch Inspirate 
 https://github.com/codeclou/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions

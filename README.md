@@ -41,8 +41,8 @@ Not Work
 - $sudo cp Icons.plist /Library/Displays/Contents/Resources/Overrides
 <img src="/img/aaaa.png?raw=true" alt="aaaa" class="center">
 <img src="/img/bbbb.png?raw=true" alt="bbbb" class="center">
-<img src="/img/cccc.png?raw=true" alt="cccc" class="center" style="width:50%;">
-<img src="/img/dddd.png?raw=true" alt="dddd" class="center" width="600" height="400">
+<img src="/img/cccc.png?raw=true" alt="cccc" display="block" style="width:70%;">
+<img src="/img/dddd.png?raw=true" alt="dddd" class="center" style="width:70%;">
 
 # Resolution Patch Inspirate 
 https://github.com/codeclou/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions

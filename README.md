@@ -40,6 +40,7 @@ Not Work
 - $sudo cp DisplayVendorID-9e5 /Library/Displays/Contents/Resources/Overrides
 - $sudo cp Icons.plist /Library/Displays/Contents/Resources/Overrides
 <img src="/img/aaaa.png?raw=true">
+<img src="/img/bbbb.png?raw=true">
 
 # Resolution Patch Inspirate 
 https://github.com/codeclou/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions

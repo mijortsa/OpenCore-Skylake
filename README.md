@@ -10,7 +10,7 @@
 - Ethernet Realtek RTL8168H/8111H
 - Bluetooth Broadcom BCM4350C2
 - Other :
-  1 USB 2.0 ports, 2 USB 3.1 ports, TouchPad, VGA port, HDMI port, WebCam HP TrueVision HD 14" diagonal HD SVA BrightView WLED-backlit (1366 x 768), 3.5mm Combo Headphone Jack, SD Media Card Reader, 4-cell, 41 Wh Li-ion Battery
+* 1 USB 2.0 ports, 2 USB 3.1 ports, TouchPad, VGA port, HDMI port, WebCam HP TrueVision HD 14" diagonal HD SVA BrightView WLED-backlit (1366 x 768), 3.5mm Combo Headphone Jack, SD Media Card Reader, 4-cell, 41 Wh Li-ion Battery
 
 ## What's Work
 
@@ -29,7 +29,7 @@
 ## Not Work
 
 - ❌ Wifi RTL8723DE (Not Supported) replase with wifi dongle driver :
-  @Chris1111 https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter
+- @Chris1111 https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter
 
 ## Patch Resolution
 ## Copy Resolution Patch folder & file :

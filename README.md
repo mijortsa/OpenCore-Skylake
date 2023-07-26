@@ -39,9 +39,9 @@ Not Work
 ### To
 - $sudo cp DisplayVendorID-9e5 /Library/Displays/Contents/Resources/Overrides
 - $sudo cp Icons.plist /Library/Displays/Contents/Resources/Overrides
-<img src="/img/aaaa.png?raw=true" alt="aaaa" align="center">
-<img src="/img/bbbb.png?raw=true" alt="bbbb" align="center">
-<img src="/img/cccc.png?raw=true" alt="cccc" align="right" style="width:70%;">
+<img src="/img/aaaa.png?raw=true" alt="aaaa" align="center" style="width:70%;">
+<img src="/img/bbbb.png?raw=true" alt="bbbb" align="center" style="width:70%;">
+<img src="/img/cccc.png?raw=true" alt="cccc" align="center" style="width:70%;">
 <img src="/img/dddd.png?raw=true" alt="dddd" align="center" style="width:70%;">
 
 # Resolution Patch Inspirate 

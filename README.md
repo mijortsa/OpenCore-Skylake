@@ -39,10 +39,10 @@ Not Work
 ### To
 - $sudo cp DisplayVendorID-9e5 /Library/Displays/Contents/Resources/Overrides
 - $sudo cp Icons.plist /Library/Displays/Contents/Resources/Overrides
-<img src="/img/aaaa.png?raw=true" align="center">
-<img src="/img/bbbb.png?raw=true" align="center">
-<img src="/img/cccc.png?raw=true" align="center">
-<img src="/img/dddd.png?raw=true" align="center" size="20%">
+<img src="/img/aaaa.png?raw=true" alt="aaaa" class="center">
+<img src="/img/bbbb.png?raw=true" alt="bbbb" class="center">
+<img src="/img/cccc.png?raw=true" alt="cccc" class="center">
+<img src="/img/dddd.png?raw=true" alt="dddd" class="center">
 
 # Resolution Patch Inspirate 
 https://github.com/codeclou/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions

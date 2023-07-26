@@ -1,9 +1,10 @@
 # OpenCore-Skylake
-EFI Laptop HP 14-bs011TU Hackintosh Ventura
+## EFI Laptop HP 14-bs011TU Hackintosh Ventura
 
 Model MacBookPro 15,4
 
 What's Work
+
 ✅ Intel HD Graphic 520 Memory 2024 Mb 
 
 (Default resolution 1366x768) patch up resolution to 1600x900
@@ -25,6 +26,7 @@ What's Work
 ✅ Bluetooth
 
 Not Work
+
 ❌ Wifi RTL8723DE (Not Supported)
   
   replase with wifi dongle driver :

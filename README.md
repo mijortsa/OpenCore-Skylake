@@ -39,7 +39,7 @@ Not Work
 ### To
 - $sudo cp DisplayVendorID-9e5 /Library/Displays/Contents/Resources/Overrides
 - $sudo cp Icons.plist /Library/Displays/Contents/Resources/Overrides
-<img src="/img/aaaa.png?raw=tru" align="center" width="1366" height="768">
+<img src="/img/aaaa.png?raw=tru" align="center" width="1366" height="600">
 <img src="/img/bbbb.png?raw=true">
 <img src="/img/cccc.png?raw=true">
 <img src="/img/dddd.png?raw=true">

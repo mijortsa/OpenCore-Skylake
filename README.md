@@ -39,8 +39,10 @@ Not Work
 ### To
 - $sudo cp DisplayVendorID-9e5 /Library/Displays/Contents/Resources/Overrides
 - $sudo cp Icons.plist /Library/Displays/Contents/Resources/Overrides
-<img src="/img/aaaa.png?raw=true">
+<img src="/img/aaaa.png?raw=tru" align="right" width="433" height="300">
 <img src="/img/bbbb.png?raw=true">
+<img src="/img/cccc.png?raw=true">
+<img src="/img/dddd.png?raw=true">
 
 # Resolution Patch Inspirate 
 https://github.com/codeclou/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions

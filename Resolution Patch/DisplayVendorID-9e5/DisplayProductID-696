@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-	    <key>DisplayProductName</key>
-	        <string>HP COMPAQ</string>
-        <key>DisplayProductID</key>
-            <integer>1686</integer>
-        <key>DisplayVendorID</key>
-            <integer>2533</integer>
-        <key>scale-resolutions</key>
-            <array>
-                <data>AAAGQAAAA4QAAAAB</data>
-				<data>AAAGEAAAA2kAAAAB</data>
-                <data>AAAFoAAAAyoAAAAB</data>
-            </array>
-        <key>target-default-ppmm</key>
-            <real>10.0699301</real>
-    </dict>
+<dict>
+  <key>DisplayProductName</key>
+  <string>HP Laptop</string>
+  <key>DisplayProductID</key>
+  <integer>1686</integer>
+  <key>DisplayVendorID</key>
+  <integer>2533</integer>
+  <key>scale-resolutions</key>
+  <array>
+    <data>AAAFoAAAAyoAAAAB</data>
+    <data>AAAFoAAAAyoAAAABACAAAA==</data>
+    <data>AAAGQAAAA4QAAAAB</data>
+    <data>AAAGQAAAA4QAAAABACAAAA==</data>
+    <data>AAAGGAAAA20AAAAB</data>
+    <data>AAAGGAAAA20AAAABACAAAA==</data>
+    <data>AAAF8AAAA1cAAAAB</data>
+    <data>AAAF8AAAA1cAAAABACAAAA==</data>
+  </array>
+</dict>
 </plist>

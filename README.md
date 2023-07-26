@@ -4,8 +4,8 @@ EFI Laptop HP 14-bs011TU Hackintosh Ventura
 Model MacBookPro 15,4
 
 What's Work
-✅ Intel HD Graphic 520 Memory 2024 Mb
-    (Default resolution 1366x768) patch up resolution to 1600x900
+|✅  |Intel HD Graphic 520 Memory 2024 Mb
+|    |(Default resolution 1366x768) patch up resolution to 1600x900
 ✅ Sound Realtek ALC282
 ✅ Battery indicator
 ✅ USB Port

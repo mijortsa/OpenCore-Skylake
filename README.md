@@ -5,15 +5,15 @@ Model MacBookPro 15,4
 
 What's Work
 1. Intel HD Graphic 520 Memory 2024 Mb
-   (Default resolution 1366x768) patch up resolution to 1600x900
-2. Sound Realtek ALC282
-3. Battery indicator
-4. USB Port
-5. Camera
-6. Keybord 
-7. Trackpad
-8. Network
-9. Bluetooth
+    (Default resolution 1366x768) patch up resolution to 1600x900
+3. Sound Realtek ALC282
+4. Battery indicator
+5. USB Port
+6. Camera
+7. Keybord 
+8. Trackpad
+9. Network
+10. Bluetooth
 
 Not Work
 - Wifi RTL8723DE (Not Supported)

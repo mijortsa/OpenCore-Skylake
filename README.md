@@ -13,33 +13,22 @@
 
 What's Work
 
-✅ Intel HD Graphic 520 Memory 2024 Mb QE/CI Enabled Graphics
-
+- ✅ Intel HD Graphic 520 Memory 2024 Mb QE/CI Enabled Graphics
   (Default resolution 1366x768) patch up resolution to 1600x900
-
-✅ Brightness Adjustments 
-
-✅ Sound Realtek ALC282 (Work Volume Adjustments) 
-
-✅ Battery indicator
-
-✅ USB Port
-
-✅ Camera
-
-✅ Keybord 
-
-✅ Trackpad
-
-✅ Network
-
-✅ Broadcom BCM4350C2 Bluetooth  
+- ✅ Brightness Adjustments
+- ✅ Sound Realtek ALC282 (Work Volume Adjustments)
+- ✅ Battery indicator
+- ✅ USB Port
+- ✅ Camera
+- ✅ Keybord
+- ✅ Trackpad
+- ✅ Network
+- ✅ Broadcom BCM4350C2 Bluetooth  
 
 Not Work
 
 ❌ Wifi RTL8723DE (Not Supported) replase with wifi dongle driver :
-
-  @Chris1111 https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter
+- @Chris1111 https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter
 
 ## Patch Resolution
 ## Copy Resolution Patch folder & file :

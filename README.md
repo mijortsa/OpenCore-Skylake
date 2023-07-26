@@ -41,7 +41,7 @@ Not Work
 - $sudo cp Icons.plist /Library/Displays/Contents/Resources/Overrides
 <img src="/img/aaaa.png?raw=true" align="center">
 <img src="/img/bbbb.png?raw=true" align="center">
-<img src="/img/cccc.png?raw=true" align="center" width="600" height="337">
+<img src="/img/cccc.png?raw=true" align="right" width="600" height="337">
 <img src="/img/dddd.png?raw=true" align="center" width="600" height="337">
 
 # Resolution Patch Inspirate 

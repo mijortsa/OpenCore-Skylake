@@ -11,7 +11,7 @@ What's Work
 
 ✅ Brightness Adjustments 
 
-✅ Sound Realtek ALC282
+✅ Sound Realtek ALC282 (Work Volume Adjustments) 
 
 ✅ Battery indicator
 

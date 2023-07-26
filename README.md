@@ -5,9 +5,11 @@ Model MacBookPro 15,4
 
 What's Work
 
-✅ Intel HD Graphic 520 Memory 2024 Mb 
+✅ Intel HD Graphic 520 Memory 2024 Mb QE/CI Enabled Graphics
 
-(Default resolution 1366x768) patch up resolution to 1600x900
+  (Default resolution 1366x768) patch up resolution to 1600x900
+
+✅ Brightness Adjustments 
 
 ✅ Sound Realtek ALC282
 
@@ -23,7 +25,7 @@ What's Work
 
 ✅ Network
 
-✅ Bluetooth
+✅ Broadcom BCM4350C2 Bluetooth  
 
 Not Work
 
@@ -33,14 +35,12 @@ Not Work
 
   @Chris1111 https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter
 
-
 ## Patch Resolution, Copy Resolution Patch :
 - Folder DisplayVendorID-9e5
 - Icons.plist
-
-sudo cp DisplayVendorID-9e5 /Library/Displays/Contents/Resources/Overrides
-
-sudo cp Icons.plist /Library/Displays/Contents/Resources/Overrides
+### To
+- $sudo cp DisplayVendorID-9e5 /Library/Displays/Contents/Resources/Overrides
+- $sudo cp Icons.plist /Library/Displays/Contents/Resources/Overrides
 
 ![Screenshot 2023-07-10 at 11 10 28](https://github.com/mijortsa/OpenCore-Skylake/assets/908982/e6734c27-0907-4cd1-8ed4-a1eae1b9dc8b) 
 

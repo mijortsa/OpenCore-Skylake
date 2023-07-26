@@ -39,7 +39,7 @@ Not Work
 ### To
 - $sudo cp DisplayVendorID-9e5 /Library/Displays/Contents/Resources/Overrides
 - $sudo cp Icons.plist /Library/Displays/Contents/Resources/Overrides
-<img src="/img/aaaa.png?raw=true" alt="HP 14-BS743TU" align="right" width="433" height="325">
+<img src="/img/aaaa.png?raw=true">
 
 # Resolution Patch Inspirate 
 https://github.com/codeclou/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions

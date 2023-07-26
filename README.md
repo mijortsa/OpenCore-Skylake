@@ -29,13 +29,12 @@ What's Work
 
 Not Work
 
-❌ Wifi RTL8723DE (Not Supported)
-  
-  replase with wifi dongle driver :
+❌ Wifi RTL8723DE (Not Supported) replase with wifi dongle driver :
 
   @Chris1111 https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter
 
-## Patch Resolution, Copy Resolution Patch :
+## Patch Resolution
+## Copy Resolution Patch folder & file :
 - Folder DisplayVendorID-9e5
 - Icons.plist
 ### To
